@@ -1,0 +1,51 @@
+h2{
+background-color: rgb(92, 182, 111);
+}
+p{background-color: rgb(92, 182, 111);}
+a{background-color: rgb(92, 182, 111);}
+span{background-color: rgb(92, 182, 111);}
+b{background-color: rgb(92, 182, 111);}
+.div{
+     text-align: center;
+}
+.anther{
+    text-align: center;
+}
+.orng{
+    text-align: center;
+}
+.orng p{
+    background-image: url(./mmmll.jpg);
+    display: inline-block;
+    padding: 50px;
+     background-position:0;
+     color: rgb(92, 182, 111);
+}
+small{
+    background-color: rgb(92, 182, 111);
+}
+strong{
+    background-color: rgb(92, 182, 111);
+}
+table{ background-color: rgb(92, 182, 111);}
+.meanu{
+    text-align: center;
+    background-color: aqua;
+}
+.meanu ul li a{ 
+   text-decoration: none;
+   padding: 10px;
+   display:inline-block;
+
+}
+.meanu ul li{
+    list-style: none;
+    display:inline-block;
+    text-align: center;
+    border-left: 0 2px solid white;
+}
+
+.meanu ul li:hover a{
+background-color: red;
+/* padding: 10px; */
+}
